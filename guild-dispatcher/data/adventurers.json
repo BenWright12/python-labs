@@ -28,5 +28,17 @@
         "role" : "Infiltrator",
         "available_days" : ["Tuesday", "Friday", "Saturday"],
         "operational_cost" : 18
+    },
+    "Kaelen": {
+        "class" : "Fighter",
+        "role" : "Defender",
+        "available_days" : ["Monday", "Wednesday", "Sunday"],
+        "operational_cost" : 12
+    },
+    "Vesper": {
+        "class" : "Monk",
+        "role" : "Infiltrator",
+        "available_days" : ["Monday", "Thursday", "Sunday"],
+        "operational_cost" : 14
     }
 }
