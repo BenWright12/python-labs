@@ -1,0 +1,32 @@
+{
+    "Cassia": {
+        "class" : "Ranger",
+        "role" : "Pathfinder",
+        "available_days" : ["Monday", "Wednesday", "Friday"],
+        "operational_cost" : 10
+    },
+        "Sir Nicholas" : {
+        "class" : "Paladin",
+        "role" : "Defender",
+        "available_days" : ["Tuesday", "Thursday", "Saturday"],
+        "operational_cost" : 15 
+    },
+    "Archmage Zephyr": {
+        "class" : "Wizard",
+        "role" : "Archanist",
+        "available_days" : ["Monday", "Tuesday", "Saturday"],
+        "operational_cost" : 25
+    },
+    "Borg" : {
+        "class" : "Barbaian",
+        "role" : "Brawler",
+        "available_days" : ["Wednesday", "Friday", "Sunday"],
+        "operational_cost" : 12
+    },
+    "Lyra" : {
+        "class" : "Rogue",
+        "role" : "Infiltrator",
+        "available_days" : ["Tuesday", "Friday", "Saturday"],
+        "operational_cost" : 18
+    }
+}

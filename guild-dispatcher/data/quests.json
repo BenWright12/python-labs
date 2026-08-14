@@ -1,0 +1,26 @@
+[
+{
+    "quest_title" : "Infiltrating the Iron Citadel",
+    "target_day" : "Tuesday",
+    "roles_required" : ["Infiltrator", "Pathfinder"],
+    "reward_payout" : 75
+},
+{
+    "quest_title" : "The Wyrm's Hoard",
+    "target_day" : "Thursday",
+    "roles_required" : ["Defender", "Archanist"],
+    "reward_payout" : 120
+},
+{
+    "quest_title" : "Clear Goblin Warrens",
+    "target_day" : "Friday",
+    "roles_required" : ["Brawler", "Defender"],
+    "reward_payout" : 50
+},
+{
+    "quest_title" : "Unmasking Dark Coven",
+    "target_day" : "Saturday",
+    "roles_required" : ["Archanist", "Infiltrator"],
+    "reward_payout" :  95
+}
+]
