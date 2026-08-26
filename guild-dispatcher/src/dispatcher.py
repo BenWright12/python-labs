@@ -28,3 +28,20 @@ with open(file_path2, "r") as file:
 #    if target_day == "Tuesday":
 #        print(f"{name} is on a {target_day}")
 
+# adding
+#names = ["Archmage Zephyr", "Kaelen"]
+#hire_cost = 0
+#for name in names:
+#    stats = adventurers[name]
+#    hire_cost += stats["operational_cost"]
+#print(f"total cost is {hire_cost}")
+
+# version 2
+#cassia_cost = adventurers["Cassia"]["operational_cost"]
+#borg_cost = adventurers["Borg"]["operational_cost"]
+#vesper_cost = adventurers["Vesper"]["operational_cost"]
+#total_cost = cassia_cost + borg_cost + vesper_cost
+#print(f"Total cost to hire Cassia, Borg, and Vesper: {total_cost} gold.")
+
+# "BOUNTY: Infiltrating the Iron Citadel | Day: Tuesday | Payout: 75g"
+
