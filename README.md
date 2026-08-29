@@ -13,7 +13,7 @@ My work in this repository focuses on **Data Structures, State Management, Modul
   * *Tech:* Python, JSON, Pathlib, String Matrix Formatting.
   * *Overview:* A backend resource management system that automates personnel scheduling and financial tracking. It parses external JSON databases to dynamically match heroes to contracts based on required roles and real time calendar availability, outputting to a formatted CLI ledger.
 
-* **[Dungeons & Dragons Terminal Engine](./dnd-cli-game)** *(In Development)*
+* **[Dungeons & Dragons Terminal Engine](./dnd-game)** *(In Development)*
   * *Tech:* Python, Object Oriented Programming (OOP), State Management.
   * *Overview:* A text based RPG environment running entirely in the terminal. Focuses on turn based combat logic, inventory data structures, and persistent character progression loops using modular class based architecture.
 
