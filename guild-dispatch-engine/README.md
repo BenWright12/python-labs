@@ -54,7 +54,7 @@ guild-dispatch-engine/
 
 │   └── quests.json     
 
-├── scripts/
+├── src/
 
 │   ├── dispatcher.py       
 

@@ -1,4 +1,4 @@
-# recruiter defintion - returns a list of available heros for each role required, returns None if it fails.
+# Recruiter defintion - returns a list of available heros for each role required, returns None if it fails
 def find_party(roles_required, day, roster):
     drafted_party = []
 
@@ -13,7 +13,7 @@ def find_party(roles_required, day, roster):
             return None 
     return drafted_party
 
-# double booked blocker function - will remove the day from thier availability once they are booked.
+# Double booked blocker function - will remove the day from thier availability once they are booked
 def book_the_party(drafted_party, day, roster):
     for hero in drafted_party:
         roster[hero]["available_days"].remove(day)
