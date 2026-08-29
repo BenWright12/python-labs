@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Python Labs | Ben Wright
 
 A dedicated software engineering sandbox featuring automated data pipelines, terminal based user interfaces (CLI), custom game logic, and system utilities. 
@@ -24,3 +25,7 @@ My work in this repository focuses on **Data Structures, State Management, Modul
 * **Data Structures & State Management:** Utilising advanced dictionary mapping, list comprehensions, and JSON parsing to track and update real time system states without data loss.
 * **CLI Engineering:** Building highly readable, strictly formatted text based terminal interfaces (CLI) using dynamic string manipulation and variable width justifications.
 * **File I/O & Pathing:** Deploying robust directory traversal techniques (`pathlib`) to ensure seamless data ingestion and environment stability across different operating systems.
+=======
+# python-labs
+A Python engineering sandbox featuring automated data generation, terminal UIs, data pipelines, and system utilities.
+>>>>>>> 38caf8db9e1e0bb1899756306f49a912942560a3
