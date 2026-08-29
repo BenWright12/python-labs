@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Python Labs | Ben Wright
 
 A dedicated software engineering sandbox featuring automated data pipelines, terminal based user interfaces (CLI), custom game logic, and system utilities. 
